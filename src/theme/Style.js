@@ -15,5 +15,8 @@ export const styles = StyleSheet.create({
     flex: 1,
     alignItems: 'center',
     justifyContent: 'center'
+  },
+  h1: {
+    fontSize: 36
   }
 });
